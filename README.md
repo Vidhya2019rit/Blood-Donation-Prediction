@@ -23,3 +23,5 @@ https://gallery.cortanaintelligence.com/Experiment/Blood-Donation-Prediction
 Azure Machine Learning makes The statistical performance measures we obtained were overall accuracy, frequency, specificity,Monitary,time and class under the bar graph. The overall accuracy measures how well you classify donors versus non-donors (TP+TN/Total). 
 
 gallery link:-https://gallery.cortanaintelligence.com/Experiment/Blood-Donation-Prediction
+
+I have developed using Azure Machine Learning Classic.
