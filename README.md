@@ -18,8 +18,7 @@ https://gallery.cortanaintelligence.com/Experiment/Blood-Donation-Prediction
 
 
 #Description:-
- Dataset was randomly partitioned into training set and testing set using a 80/20 train/test partition. Models are trained [3] using various algorithms using the entire training set, as well as trained on each cluster generated within the training set. Each model was trained once using what is referred to as a validation-set approach where there is one training set and one test set.
-
-Once models are trained, the [5] test (i.e. holdout) data is fed into each trained model to measure [6] model performance. These measures allow us to gauge the generalizability of the remaining subset of data not used in the study, and provides us a feel to the degree of how overfit any models with respect to the training data.
-
+ Dataset was randomly partitioned into training set and testing set using a 80/20 train/test partition. Models are trained [3] using various algorithms using the entire training set, as well as trained on each cluster generated within the training set. Each model was trained once using what is referred to as a validation-set approach where there is one training set and one test set.Once models are trained, the [5] test (i.e. holdout) data is fed into each trained model to measure [6] model performance. These measures allow us to gauge the generalizability of the remaining subset of data not used in the study, and provides us a feel to the degree of how overfit any models with respect to the training data.
 Azure Machine Learning makes The statistical performance measures we obtained were overall accuracy, frequency, specificity,Monitary,time and class under the bar graph. The overall accuracy measures how well you classify donors versus non-donors (TP+TN/Total). 
+
+gallery link:-https://gallery.cortanaintelligence.com/Experiment/Blood-Donation-Prediction
